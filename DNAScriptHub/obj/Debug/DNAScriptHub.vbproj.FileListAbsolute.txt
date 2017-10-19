@@ -1,0 +1,37 @@
+C:\Users\Leighton\AppData\Local\Temporary Projects\DNAScriptHub\bin\Debug\DNAScriptHub.exe.config
+C:\Users\Leighton\AppData\Local\Temporary Projects\DNAScriptHub\bin\Debug\DNAScriptHub.exe
+C:\Users\Leighton\AppData\Local\Temporary Projects\DNAScriptHub\bin\Debug\DNAScriptHub.pdb
+C:\Users\Leighton\AppData\Local\Temporary Projects\DNAScriptHub\bin\Debug\DNAScriptHub.xml
+C:\Users\Leighton\AppData\Local\Temporary Projects\DNAScriptHub\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Leighton\AppData\Local\Temporary Projects\DNAScriptHub\bin\Debug\FastColoredTextBox.dll
+C:\Users\Leighton\AppData\Local\Temporary Projects\DNAScriptHub\bin\Debug\MaterialSkin.dll
+C:\Users\Leighton\AppData\Local\Temporary Projects\DNAScriptHub\bin\Debug\MetroFramework.Design.dll
+C:\Users\Leighton\AppData\Local\Temporary Projects\DNAScriptHub\bin\Debug\MetroFramework.dll
+C:\Users\Leighton\AppData\Local\Temporary Projects\DNAScriptHub\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Leighton\AppData\Local\Temporary Projects\DNAScriptHub\obj\Debug\DNAScriptHub.vbprojResolveAssemblyReference.cache
+C:\Users\Leighton\AppData\Local\Temporary Projects\DNAScriptHub\obj\Debug\DNAScriptHub.Form1.resources
+C:\Users\Leighton\AppData\Local\Temporary Projects\DNAScriptHub\obj\Debug\DNAScriptHub.Resources.resources
+C:\Users\Leighton\AppData\Local\Temporary Projects\DNAScriptHub\obj\Debug\DNAScriptHub.vbproj.GenerateResource.Cache
+C:\Users\Leighton\AppData\Local\Temporary Projects\DNAScriptHub\obj\Debug\DNAScriptHub.vbproj.CoreCompileInputs.cache
+C:\Users\Leighton\AppData\Local\Temporary Projects\DNAScriptHub\obj\Debug\DNAScriptHub.exe
+C:\Users\Leighton\AppData\Local\Temporary Projects\DNAScriptHub\obj\Debug\DNAScriptHub.xml
+C:\Users\Leighton\AppData\Local\Temporary Projects\DNAScriptHub\obj\Debug\DNAScriptHub.pdb
+C:\Users\Leighton\Desktop\DNAScriptHub\DNAScriptHub\bin\Debug\DNAScriptHub.exe.config
+C:\Users\Leighton\Desktop\DNAScriptHub\DNAScriptHub\bin\Debug\DNAScriptHub.exe
+C:\Users\Leighton\Desktop\DNAScriptHub\DNAScriptHub\bin\Debug\DNAScriptHub.pdb
+C:\Users\Leighton\Desktop\DNAScriptHub\DNAScriptHub\bin\Debug\DNAScriptHub.xml
+C:\Users\Leighton\Desktop\DNAScriptHub\DNAScriptHub\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Leighton\Desktop\DNAScriptHub\DNAScriptHub\bin\Debug\FastColoredTextBox.dll
+C:\Users\Leighton\Desktop\DNAScriptHub\DNAScriptHub\bin\Debug\MaterialSkin.dll
+C:\Users\Leighton\Desktop\DNAScriptHub\DNAScriptHub\bin\Debug\MetroFramework.Design.dll
+C:\Users\Leighton\Desktop\DNAScriptHub\DNAScriptHub\bin\Debug\MetroFramework.dll
+C:\Users\Leighton\Desktop\DNAScriptHub\DNAScriptHub\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Leighton\Desktop\DNAScriptHub\DNAScriptHub\obj\Debug\DNAScriptHub.vbprojResolveAssemblyReference.cache
+C:\Users\Leighton\Desktop\DNAScriptHub\DNAScriptHub\obj\Debug\DNAScriptHub.Resources.resources
+C:\Users\Leighton\Desktop\DNAScriptHub\DNAScriptHub\obj\Debug\DNAScriptHub.vbproj.GenerateResource.Cache
+C:\Users\Leighton\Desktop\DNAScriptHub\DNAScriptHub\obj\Debug\DNAScriptHub.vbproj.CoreCompileInputs.cache
+C:\Users\Leighton\Desktop\DNAScriptHub\DNAScriptHub\obj\Debug\DNAScriptHub.exe
+C:\Users\Leighton\Desktop\DNAScriptHub\DNAScriptHub\obj\Debug\DNAScriptHub.xml
+C:\Users\Leighton\Desktop\DNAScriptHub\DNAScriptHub\obj\Debug\DNAScriptHub.pdb
+C:\Users\Leighton\Desktop\DNAScriptHub\DNAScriptHub\obj\Debug\DNAScriptHub.HubUI.resources
+C:\Users\Leighton\Desktop\DNAScriptHub\DNAScriptHub\obj\Debug\DNAScriptHub.KeemstarNews.resources
